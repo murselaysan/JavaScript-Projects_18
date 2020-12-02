@@ -24,6 +24,8 @@ const getCountry = function (country) {
 btn.addEventListener('click', displayResults);
 */
 
+
+
 const getCountry = function (country) {
   // Information to reach API
   const urlName = "https://restcountries.eu/rest/v2/name/";
